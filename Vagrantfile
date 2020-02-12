@@ -1,8 +1,10 @@
 # ------ 
 # Purpose: Vagrantfile to generate 3 Ubuntu VMs for testing purpose
+# Changelog:
+#   2020-Feb-12: bunmp up OS from 1604 to 18.04
 # ------
 
-IMAGE_NAME = "bento/ubuntu-16.04"
+IMAGE_NAME = "bento/ubuntu-18.04"
 N = 2
 
 $script = <<-'SCRIPT'
