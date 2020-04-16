@@ -1,7 +1,8 @@
 # ------ 
 # Purpose: Vagrantfile to generate 3 Ubuntu VMs for testing purpose
 # Changelog:
-#   2020-Feb-12: bunmp up OS from 1604 to 18.04
+#   2020-Feb-12: bump up OS from 16.04 to 18.04
+#   2020-Apr-15: Used. Tested working
 # ------
 
 IMAGE_NAME = "bento/ubuntu-18.04"

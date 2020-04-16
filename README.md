@@ -1,3 +1,4 @@
 # list of small tools to facilitate daily work
 
-- texplate - compiled binary from pivotol-cf/texplate used for terraforming-pks. Meant to run on 64bits Linux operating system.
+- Vagrantfile : Base for setting up multiple test scenarios
+- rabbitmq    : contains a Producer and a Consumer python script for simple testing
